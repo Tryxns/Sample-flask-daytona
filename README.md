@@ -6,7 +6,8 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
 
 # Sample Python/Flask
 
-My Flask Project
+My Flask Project based on tutorial: 
+https://www.codementor.io/@mide/how-to-build-restful-apis-with-python-and-flask-fh5x7zjrx
 
 ---
 
