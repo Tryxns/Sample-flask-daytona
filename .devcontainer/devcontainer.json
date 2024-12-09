@@ -7,5 +7,6 @@
 			"USER_GID": "1001"
 		}
 	},
-	"remoteUser": "developer"
+    "postCreateCommand": "pip install -r requirements.txt",
+    "remoteUser": "vscode"
 }
